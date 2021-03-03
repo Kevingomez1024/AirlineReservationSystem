@@ -1,4 +1,4 @@
-package edu.FGCU;
+package edu.FGCU.GUI;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

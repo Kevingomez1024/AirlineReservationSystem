@@ -28,4 +28,4 @@ javafx {
     modules = [ 'javafx.controls', 'javafx.fxml' ]
 }
 
-mainClassName = 'edu.FGCU.Main'
+mainClassName = 'edu.FGCU.GUI.Main'
